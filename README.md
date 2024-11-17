@@ -55,7 +55,7 @@ To start training the model, run the code block which starts with the function:
 def build_generator():
 
 
-Note: It has always to be considered that each all the code blocks in the file are interconnected to one another.
+**Note:** It has always to be considered that each of the code blocks in the file are interconnected to one another.
 
 
 **4.	What to run for evaluation  (preferred: .IPYNB with images)**
@@ -68,7 +68,7 @@ To start evaluating the model, run the code block which starts with the function
 		def calculate_psnr(original, generated):
 
   
-Note: It has always to be considered that each all the code blocks in the file are interconnected to one another.
+**Note:** It has always to be considered that each of the code blocks in the file are interconnected to one another.
 
 
 
