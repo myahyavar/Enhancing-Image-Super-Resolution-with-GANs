@@ -48,11 +48,12 @@ Navigate to the ipynb file named ImageS-Res_GAN.ipynb and run all the cells in o
 **3.	What to run for the training (preferred: .IPYNB with results)**
 
 
-We have created a single ipynb file named ImageS-Res_GAN.ipynb which  consists of different code blocks with each are interconnected to one another.
+We have created a single ipynb file named **ImageS-Res_GAN.ipynb** which  consists of different code blocks with each are interconnected to one another.
 
 
 To start training the model, run the code block which starts with the function:
-def build_generator():
+
+**def build_generator():**
 
 
 **Note:** It has always to be considered that each of the code blocks in the file are interconnected to one another.
@@ -65,7 +66,8 @@ We have created a single ipynb file named ImageS-Res_GAN.ipynb which  consists o
 
 
 To start evaluating the model, run the code block which starts with the function:
-		def calculate_psnr(original, generated):
+
+		**def calculate_psnr(original, generated):**
 
   
 **Note:** It has always to be considered that each of the code blocks in the file are interconnected to one another.
