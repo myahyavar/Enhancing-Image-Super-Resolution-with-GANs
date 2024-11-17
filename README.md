@@ -42,7 +42,7 @@ The dataset for this project is not attached to the github repository as the fil
 **Step 2: Run the code block step by step**
 
 
-Navigate to the ipynb file named ImageS-Res_GAN.ipynb and run all the cells in order.
+Navigate to the ipynb file named **ImageS-Res_GAN.ipynb** and run all the cells in order.
 
 
 **3.	What to run for the training (preferred: .IPYNB with results)**
