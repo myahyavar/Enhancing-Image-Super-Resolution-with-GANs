@@ -69,6 +69,10 @@ To start evaluating the model, **run the code block** which starts with the func
 
 **def calculate_psnr(original, generated):**
 
+Finally, to display the results, **run the code block** which starts with the function:
+
+**print(f"---ESRGAN---")**
+
   
 **Note:** It has always to be considered that each of the code blocks in the file are interconnected to one another.
 
