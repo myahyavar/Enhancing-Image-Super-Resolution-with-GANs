@@ -1,3 +1,4 @@
+#Milestone 1
 # Enhancing-Image-Super-Resolution-with-GANs
 
 Team Starfish
@@ -15,3 +16,5 @@ The project uses DIV2K Realistic Mild x4 dataset, the total database size is too
 To run the project, first download the dataset using the link provided above (please follow the instructions on how to download from the attached link above), and then navigate to the ipynb file named ImageS-Res_GAN.ipynb and run all the cells in order
 
 All the operations are done in ImageS-Res_GAN.ipynb.
+
+**#Milestone 2**
