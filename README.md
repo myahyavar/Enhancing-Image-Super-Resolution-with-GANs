@@ -20,20 +20,6 @@ All the operations are done in ImageS-Res_GAN.ipynb.
 Requirements.txt file created and attached to the gihub repository
 
 
-**Running The Pipeline**
-
-
-Steps 1: Download the dataset
-
-
-After dow
-
-**Step 2: Run the code block step by step**
-
-
-Navigate to the ipynb file named **ImageS-Res_GAN.ipynb** and run all the cells in order.
-
-
 **Running the Training**
 
 To start training the ESRAGN model, **run the code block** which starts with the function:
