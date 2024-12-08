@@ -8,6 +8,8 @@ Avar Muhammed Yahya 	    (Neptun: Y8OIJ1)
 Gibiso Mechal Timotewos	  (Neptun:FBOFAC)
 
 # **Project Overview**
+**Project Title:** Enahancing Image Super-Resolution with Generative Adversal Networks (GANs)
+
 This project focuses on using Generative Adversarial Networks (GANs), specifically architectures like SRGAN (Super-Resolution GAN) and ESRGAN (Enhanced SRGAN), to upscale low-resolution images while maintaining or enhancing perceptual quality.
 # **Dataset**
 •	**Dataset Name:** DIV2K Realistic Mild x4 dataset.
